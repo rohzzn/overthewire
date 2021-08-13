@@ -41,8 +41,17 @@ Password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 Level 3 - Level 4:
 <br>
-The password for the next level is stored in a file called spaces in this filename located in the home directory
+The password for the next level is stored in a hidden file in the inhere directory.
 ```
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+```
+![image](https://user-images.githubusercontent.com/47408756/129329450-94e02aab-db93-4e4d-ad9f-2ef0a6eabb34.png)
+
+Level 4 - Level 5:
+<br>
+The password for the next level is stored in a hidden file in the inhere directory.
+```
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```

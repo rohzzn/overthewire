@@ -85,3 +85,16 @@ owned by group bandit6
 ssh bandit6@bandit.labs.overthewire.org -p 2220
 Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 ```
+![image](https://user-images.githubusercontent.com/47408756/129330543-aab3fe37-64f3-41e1-b294-86268aa256ff.png)
+<br>
+![image](https://user-images.githubusercontent.com/47408756/129330569-90f0e53a-5cd3-4178-bf37-a57f9a9a146e.png)
+<br>
+![image](https://user-images.githubusercontent.com/47408756/129330662-b316cbec-b13d-44b3-9a46-e2d905ec6680.png)
+
+Level 7 - Level 8:
+<br>
+The password for the next level is stored in the file data.txt next to the word millionth
+```
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+```

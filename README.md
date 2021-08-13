@@ -5,7 +5,7 @@
 [Website](http://overthewire.org/wargames/bandit)
 <br>
 ## Table of contents
-* [Level 0](#Level0)
+* [Level 0](#level-0)
 * [Level 0 - Level 1](#Level 0 - Level 1)
 
 ## Level 0

@@ -104,7 +104,7 @@ Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 
 Level 8 - Level 9:
 <br>
-The password for the next level is stored in the file data.txt next to the word millionth
+The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 ```
 ssh bandit8@bandit.labs.overthewire.org -p 2220
 Password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
@@ -113,7 +113,7 @@ Password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 
 Level 9 - Level 10:
 <br>
-The password for the next level is stored in the file data.txt next to the word millionth
+The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters.
 ```
 ssh bandit9@bandit.labs.overthewire.org -p 2220
 Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
@@ -122,7 +122,7 @@ Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 Level 10 - Level 11:
 <br>
-The password for the next level is stored in the file data.txt next to the word millionth
+The password for the next level is stored in the file data.txt, which contains base64 encoded data
 ```
 ssh bandit10@bandit.labs.overthewire.org -p 2220
 Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
@@ -131,7 +131,7 @@ Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 
 Level 11 - Level 12:
 <br>
-The password for the next level is stored in the file data.txt next to the word millionth
+The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 ```
 ssh bandit11@bandit.labs.overthewire.org -p 2220
 Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
@@ -140,7 +140,7 @@ Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 
 Level 12 - Level 13:
 <br>
-The password for the next level is stored in the file data.txt next to the word millionth
+The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work using mkdir. For example: mkdir /tmp/myname123. Then copy the datafile using cp, and rename it using mv (read the manpages!)
 ```
 ssh bandit12@bandit.labs.overthewire.org -p 2220
 Password: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu

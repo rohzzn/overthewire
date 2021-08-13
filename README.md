@@ -47,7 +47,7 @@ Password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129329018-7a4cb1c2-005a-4b89-86d8-7eee931b1d4d.png)
 
-## Level 3 - Level 4:
+## Level 3 - Level 4
 The password for the next level is stored in a hidden file in the inhere directory.
 ```
 ssh bandit3@bandit.labs.overthewire.org -p 2220
@@ -55,7 +55,7 @@ Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129329450-94e02aab-db93-4e4d-ad9f-2ef0a6eabb34.png)
 
-## Level 4 - Level 5:
+## Level 4 - Level 5
 The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
 ```
 ssh bandit4@bandit.labs.overthewire.org -p 2220
@@ -63,7 +63,7 @@ Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129329758-195cb9a4-12a7-4b79-9b80-ad1ec9f3e8b7.png)
 
-## Level 5 - Level 6:
+## Level 5 - Level 6
 The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
 <br>
 human-readable
@@ -95,7 +95,7 @@ Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 <br>
 ![image](https://user-images.githubusercontent.com/47408756/129330662-b316cbec-b13d-44b3-9a46-e2d905ec6680.png)
 
-## Level 7 - Level 8:
+## Level 7 - Level 8
 The password for the next level is stored in the file data.txt next to the word millionth
 ```
 ssh bandit7@bandit.labs.overthewire.org -p 2220
@@ -105,7 +105,7 @@ Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 <br>
 ![image](https://user-images.githubusercontent.com/47408756/129332049-1508ed8f-7e31-433a-bd8f-f5359ea89b49.png)
 
-## Level 8 - Level 9:
+## Level 8 - Level 9
 The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 ```
 ssh bandit8@bandit.labs.overthewire.org -p 2220
@@ -113,7 +113,7 @@ Password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129332460-a154381c-82d6-4ed8-8bb2-e172d1ca132e.png)
 
-## Level 9 - Level 10:
+## Level 9 - Level 10
 The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters.
 ```
 ssh bandit9@bandit.labs.overthewire.org -p 2220
@@ -121,7 +121,7 @@ Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129332898-6a8f1dc0-6ec7-47a0-85a4-ebd115304a44.png)
 
-## Level 10 - Level 11:
+## Level 10 - Level 11
 The password for the next level is stored in the file data.txt, which contains base64 encoded data
 ```
 ssh bandit10@bandit.labs.overthewire.org -p 2220
@@ -129,7 +129,7 @@ Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129333206-c1b4ec0e-2e53-4918-9005-c8e039272e14.png)
 
-## Level 11 - Level 12:
+## Level 11 - Level 12
 The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 ```
 ssh bandit11@bandit.labs.overthewire.org -p 2220

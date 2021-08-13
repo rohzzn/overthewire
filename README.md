@@ -1,4 +1,4 @@
-## Table of contents
+## Contents
 * [Level 0](#level-0)
 * [Level 0 - Level 1](#level-0---level-1)
 * [Level 1 - Level 2](#level-1---level-2)

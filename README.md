@@ -136,3 +136,12 @@ The password for the next level is stored in the file data.txt next to the word 
 ssh bandit11@bandit.labs.overthewire.org -p 2220
 Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 ```
+![image](https://user-images.githubusercontent.com/47408756/129333361-2828230c-8c96-4747-89b6-cc60080d138a.png)
+
+Level 12 - Level 13:
+<br>
+The password for the next level is stored in the file data.txt next to the word millionth
+```
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+Password: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+```

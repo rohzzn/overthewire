@@ -60,9 +60,11 @@ Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 Level 5 - Level 6:
 <br>
 The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
-
+<br>
 human-readable
+<br>
 1033 bytes in size
+<br>
 not executable
 ```
 ssh bandit5@bandit.labs.overthewire.org -p 2220
@@ -73,9 +75,11 @@ Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 Level 6 - Level 7:
 <br>
 The password for the next level is stored somewhere on the server and has all of the following properties:
-
+<br>
 owned by user bandit7
+<br>
 owned by group bandit6
+<br>
 33 bytes in size
 ```
 ssh bandit6@bandit.labs.overthewire.org -p 2220

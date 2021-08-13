@@ -1,6 +1,11 @@
-# OverTheWire Bandit
+<div align="center">
+<h1>OverTheWire</h1>
+<b> Bandit </b>
+</div>
 
-[OverTheWire](http://overthewire.org/wargames/bandit)
+<br>
+
+[Website](http://overthewire.org/wargames/bandit)
 
 Level 0:
 <br>

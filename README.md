@@ -150,3 +150,5 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 ssh bandit12@bandit.labs.overthewire.org -p 2220
 Password: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 ```
+![image](https://user-images.githubusercontent.com/47408756/129334258-d10f8001-8ff3-4e5c-84d2-41873742d006.png)
+<br>

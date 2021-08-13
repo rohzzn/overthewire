@@ -25,7 +25,7 @@ Level 1 - Level 2:
 <br>
 The password for the next level is stored in a file called - located in the home directory
 ```
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+ssh bandit1@bandit.labs.overthewire.org -p 2220
 Password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129327441-83b3f71f-a29a-4ffe-869e-fc267cb8cfcb.png)
@@ -34,7 +34,7 @@ Level 2 - Level 3:
 <br>
 The password for the next level is stored in a file called spaces in this filename located in the home directory
 ```
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+ssh bandit2@bandit.labs.overthewire.org -p 2220
 Password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129328159-8f3b498d-a2d0-4860-af10-ef801cc0d306.png)

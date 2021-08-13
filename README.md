@@ -1,7 +1,3 @@
-# OverTheWire - Bandit 
-
-<br>
-
 ## Table of contents
 * [Level 0](#level-0)
 * [Level 0 - Level 1](#level-0---level-1)

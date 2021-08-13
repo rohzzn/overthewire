@@ -50,8 +50,17 @@ Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 Level 4 - Level 5:
 <br>
-The password for the next level is stored in a hidden file in the inhere directory.
+The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
 ```
 ssh bandit4@bandit.labs.overthewire.org -p 2220
 Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+```
+![image](https://user-images.githubusercontent.com/47408756/129329758-195cb9a4-12a7-4b79-9b80-ad1ec9f3e8b7.png)
+
+Level 5 - Level 6:
+<br>
+The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
+```
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```

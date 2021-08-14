@@ -176,6 +176,7 @@ ssh bandit15@bandit.labs.overthewire.org -p 2220
 Password: BfMYroe26WYalil77FoDi9qh59eK5xNr
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129440260-942ff8d8-656b-40e6-81a2-9c28b05095cc.png)
+<br>
 ![image](https://user-images.githubusercontent.com/47408756/129440264-4b93d0b8-526c-4c5e-9b96-ba1b15441b9e.png)
 
 ## Level 16 - Level 17
@@ -185,3 +186,12 @@ ssh bandit16@bandit.labs.overthewire.org -p 2220
 Password: cluFn7wTiGryunymYOu4RcffSxQluehd
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129440426-8eecf687-16a2-4a0c-a6ae-c2ecd290795a.png)
+
+## Level 17 - Level 18
+There are 2 files in the homedirectory: passwords.old and passwords.new. The password for the next level is in passwords.new and is the only line that has been changed between passwords.old and passwords.new
+
+NOTE: if you have solved this level and see ‘Byebye!’ when trying to log into bandit18, this is related to the next level, bandit19.
+```
+ssh bandit17@bandit.labs.overthewire.org -p 2220
+Password: xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
+```

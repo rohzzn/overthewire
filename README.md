@@ -144,9 +144,9 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 ssh bandit12@bandit.labs.overthewire.org -p 2220
 Password: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 ```
-![image](https://user-images.githubusercontent.com/47408756/129439925-046f7be4-9c47-42ae-a9d0-25a73b8a4db0.png)
-![image](https://user-images.githubusercontent.com/47408756/129439933-cfdb322b-07f2-48ae-893e-d7ce6e65d275.png)
-![image](https://user-images.githubusercontent.com/47408756/129439934-5fbed87d-4ae0-435a-aba8-0c80afc6ae06.png)
+![image](https://user-images.githubusercontent.com/47408756/129439976-5a28d58e-e8b7-4d2c-8417-f56931f2857d.png)
+![image](https://user-images.githubusercontent.com/47408756/129439979-3b66c234-455f-4049-8840-7adde05a92de.png)
+![image](https://user-images.githubusercontent.com/47408756/129439971-8e8a3692-7ec7-4c91-a8e8-4dcf465de647.png)
 
 
 ## Level 13 - Level 14

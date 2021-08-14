@@ -184,3 +184,4 @@ The credentials for the next level can be retrieved by submitting the password o
 ssh bandit16@bandit.labs.overthewire.org -p 2220
 Password: cluFn7wTiGryunymYOu4RcffSxQluehd
 ```
+![image](https://user-images.githubusercontent.com/47408756/129440426-8eecf687-16a2-4a0c-a6ae-c2ecd290795a.png)

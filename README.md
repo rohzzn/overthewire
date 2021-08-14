@@ -137,3 +137,22 @@ Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 ```
 ![image](https://user-images.githubusercontent.com/47408756/129333361-2828230c-8c96-4747-89b6-cc60080d138a.png)
 
+## Level 12 - Level 13
+The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work using mkdir. For example: mkdir /tmp/myname123. Then copy the datafile using cp, and rename it using mv (read the manpages!)
+
+```
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+Password: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+```
+![image](https://user-images.githubusercontent.com/47408756/129439925-046f7be4-9c47-42ae-a9d0-25a73b8a4db0.png)
+![image](https://user-images.githubusercontent.com/47408756/129439933-cfdb322b-07f2-48ae-893e-d7ce6e65d275.png)
+![image](https://user-images.githubusercontent.com/47408756/129439934-5fbed87d-4ae0-435a-aba8-0c80afc6ae06.png)
+
+
+## Level 13 - Level 14
+The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. Note: localhost is a hostname that refers to the machine you are working on
+
+```
+ssh bandit13@bandit.labs.overthewire.org -p 2220
+Password: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+```

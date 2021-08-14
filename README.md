@@ -195,3 +195,11 @@ NOTE: if you have solved this level and see ‘Byebye!’ when trying to log int
 ssh bandit17@bandit.labs.overthewire.org -p 2220
 Password: xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
 ```
+![image](https://user-images.githubusercontent.com/47408756/129441119-f04c5782-4fef-493d-ba12-21b0256d7fac.png)
+
+## Level 18 - Level 19
+The password for the next level is stored in a file readme in the homedirectory. Unfortunately, someone has modified .bashrc to log you out when you log in with SSH.
+```
+ssh bandit18@bandit.labs.overthewire.org -p 2220
+Password: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+```

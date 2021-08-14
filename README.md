@@ -12,6 +12,13 @@
 * [Level 9 - Level 10](#level-9---level-10)
 * [Level 10 - Level 11](#level-10---level-11)
 * [Level 11 - Level 12](#level-11---level-12)
+* [Level 12 - Level 13](#level-12---level-13)
+* [Level 13 - Level 14](#level-13---level-14)
+* [Level 14 - Level 15](#level-14---level-15)
+* [Level 15 - Level 16](#level-15---level-16)
+* [Level 16 - Level 17](#level-16---level-17)
+* [Level 17 - Level 18](#level-17---level-18)
+* [Level 18 - Level 19](#level-18---level-19)
 
 ## Level 0
 

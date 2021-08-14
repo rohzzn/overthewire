@@ -175,3 +175,12 @@ Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof an
 ssh bandit15@bandit.labs.overthewire.org -p 2220
 Password: BfMYroe26WYalil77FoDi9qh59eK5xNr
 ```
+![image](https://user-images.githubusercontent.com/47408756/129440260-942ff8d8-656b-40e6-81a2-9c28b05095cc.png)
+![image](https://user-images.githubusercontent.com/47408756/129440264-4b93d0b8-526c-4c5e-9b96-ba1b15441b9e.png)
+
+## Level 16 - Level 17
+The credentials for the next level can be retrieved by submitting the password of the current level to a port on localhost in the range 31000 to 32000. First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
+```
+ssh bandit16@bandit.labs.overthewire.org -p 2220
+Password: cluFn7wTiGryunymYOu4RcffSxQluehd
+```

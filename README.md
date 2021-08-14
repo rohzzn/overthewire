@@ -164,3 +164,14 @@ The password for the next level can be retrieved by submitting the password of t
 ssh bandit14@bandit.labs.overthewire.org -p 2220
 Password: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ```
+![image](https://user-images.githubusercontent.com/47408756/129440154-04d6204b-0cb3-4d22-ab71-324f735a07d0.png)
+
+
+## Level 15 - Level 16
+The password for the next level can be retrieved by submitting the password of the current level to port 30001 on localhost using SSL encryption.
+
+Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof and read the “CONNECTED COMMANDS” section in the manpage. Next to ‘R’ and ‘Q’, the ‘B’ command also works in this version of that command
+```
+ssh bandit15@bandit.labs.overthewire.org -p 2220
+Password: BfMYroe26WYalil77FoDi9qh59eK5xNr
+```

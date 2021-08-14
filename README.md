@@ -151,8 +151,16 @@ Password: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
 ## Level 13 - Level 14
 The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. Note: localhost is a hostname that refers to the machine you are working on
-
 ```
 ssh bandit13@bandit.labs.overthewire.org -p 2220
 Password: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+```
+![image](https://user-images.githubusercontent.com/47408756/129440086-c9ddc1ad-0f16-4ba5-a3bc-82d239f8bdfc.png)
+![image](https://user-images.githubusercontent.com/47408756/129440090-1fbeac7a-feb5-4abc-9569-8b69119512fb.png)
+
+## Level 14 - Level 15
+The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
+```
+ssh bandit14@bandit.labs.overthewire.org -p 2220
+Password: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ```

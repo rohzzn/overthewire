@@ -210,3 +210,11 @@ The password for the next level is stored in a file readme in the homedirectory.
 ssh bandit18@bandit.labs.overthewire.org -p 2220
 Password: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
 ```
+![image](https://user-images.githubusercontent.com/47408756/130219878-9a493433-abd3-472a-957e-9dc49f8301c4.png)
+
+## Level 19 - Level 29
+To gain access to the next level, you should use the setuid binary in the homedirectory. Execute it without arguments to find out how to use it. The password for this level can be found in the usual place (/etc/bandit_pass), after you have used the setuid binary.
+```
+ssh bandit19@bandit.labs.overthewire.org -p 2220
+Password: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+```

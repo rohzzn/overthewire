@@ -237,3 +237,11 @@ A program is running automatically at regular intervals from cron, the time-base
 ssh bandit21@bandit.labs.overthewire.org -p 2220
 Password: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
 ```
+![image](https://user-images.githubusercontent.com/47408756/130223746-cfbc6782-2f97-4764-8c08-852955e69e37.png)
+
+## Level 22 - Level 23
+A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
+```
+ssh bandit22@bandit.labs.overthewire.org -p 2220
+Password: Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+```

@@ -218,3 +218,12 @@ To gain access to the next level, you should use the setuid binary in the homedi
 ssh bandit19@bandit.labs.overthewire.org -p 2220
 Password: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 ```
+![image](https://user-images.githubusercontent.com/47408756/130221219-8f82541c-f139-46a8-b1de-2e789bbc961c.png)
+
+## Level 20 - Level 21
+There is a setuid binary in the homedirectory that does the following: it makes a connection to localhost on the port you specify as a commandline argument. It then reads a line of text from the connection and compares it to the password in the previous level (bandit20). If the password is correct, it will transmit the password for the next level (bandit21).
+
+```
+ssh bandit20@bandit.labs.overthewire.org -p 2220
+Password: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+```

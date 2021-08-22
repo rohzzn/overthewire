@@ -4,4 +4,4 @@
   
 </div>
 
-[Level 0 - 25](https://github.com/Calatop/OverTheWire_Bandit/wiki)
+[Level 0 - 25](https://github.com/Calatop/OverTheWire_Bandit/wiki/OverTheWire-Bandit)

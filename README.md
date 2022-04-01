@@ -13,8 +13,6 @@
   </a>
 </p>
 
-#
-
 # Bandit
 
 ## Level 0

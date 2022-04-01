@@ -5,16 +5,6 @@
   </a>
 </p>
 
-<br>
-
-<p>
-  <a href="https://github.com/Calatop/OverTheWire/wiki/Natas" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/47408756/132019926-07592439-3471-4faf-9552-58f1eae9c45a.png" alt="Natas" />
-  </a>
-</p>
-
-# Bandit
-
 ## Level 0
 
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
@@ -252,3 +242,64 @@ A daemon is listening on port 30002 and will give you the password for bandit25 
 ssh bandit24@bandit.labs.overthewire.org -p 2220
 Password: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
 ```
+
+<br>
+
+<p>
+  <a href="https://github.com/Calatop/OverTheWire/wiki/Natas" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/47408756/132019926-07592439-3471-4faf-9552-58f1eae9c45a.png" alt="Natas" />
+  </a>
+</p>
+
+## Level 0
+
+Natas teaches the basics of serverside web security.
+
+Each level of natas consists of its own website located at http://natasX.natas.labs.overthewire.org, where X is the level number. There is no SSH login. To access a level, enter the username for that level (e.g. natas0 for level 0) and its password.
+
+Each level has access to the password of the next level. Your job is to somehow obtain that next password and level up. All passwords are also stored in /etc/natas_webpass/. E.g. the password for natas5 is stored in the file /etc/natas_webpass/natas5 and only readable by natas4 and natas5.
+
+Start here:
+URL:      http://natas0.natas.labs.overthewire.org
+```
+Username: natas0
+Password: natas0
+```
+![image](https://user-images.githubusercontent.com/47408756/130347751-c7feabb4-4255-4a07-91a8-21775ee4d488.png)
+
+## Level 0 - Level 1
+
+URL:     http://natas1.natas.labs.overthewire.org
+```
+Username: natas1
+Password: gtVrDuiDfck831PqWsLEZy5gyDz1clto 
+```
+![image](https://user-images.githubusercontent.com/47408756/130349153-c1d2e687-3cfc-40f0-9241-99ec9c4499f7.png)
+
+## Level 1 - Level 2
+
+URL:      http://natas2.natas.labs.overthewire.org
+```
+Username: natas2
+Password: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+```
+![image](https://user-images.githubusercontent.com/47408756/131376881-30f8c369-5a01-4bdf-bfb8-b2582e104e6c.png)
+![image](https://user-images.githubusercontent.com/47408756/131377033-9bf35e96-cad6-44b6-ad1e-2fb9503e1069.png)
+
+## Level 2 - Level 3
+
+URL:      http://natas3.natas.labs.overthewire.org
+```
+Username: natas3
+Password: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+```
+![image](https://user-images.githubusercontent.com/47408756/131377441-0b22ac21-0df6-4e3a-820a-988bdc9d1ac0.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/47408756/131377589-9d1b93fd-6d87-4755-b9b9-86b4c69dd61b.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/47408756/131377619-bd67f1e5-7b5a-4850-afbe-2e5c1f30e01a.png)
+
